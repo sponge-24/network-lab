@@ -2,7 +2,6 @@
 
 A full-stack web application for managing KVM/QEMU virtual machines with integrated remote desktop access via Apache Guacamole. This project provides an intuitive interface to create, manage, and access Ubuntu-based virtual machines through your browser.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![React](https://img.shields.io/badge/react-19.1.1-blue.svg)
 ![Docker](https://img.shields.io/badge/docker-compose-blue.svg)
@@ -312,9 +311,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
