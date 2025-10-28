@@ -192,14 +192,14 @@ curl -X DELETE http://localhost:8000/nodes/{node_id}
 
 ### Endpoints
 
-| Method | Endpoint | Description | Response |
-|--------|----------|-------------|----------|
-| GET | `/nodes` | List all nodes | Array of Node objects |
-| POST | `/nodes` | Create a new node | Node object |
-| POST | `/nodes/{node_id}/run` | Start a node | Node object |
-| POST | `/nodes/{node_id}/stop` | Stop a node | Node object |
-| POST | `/nodes/{node_id}/wipe` | Wipe and reset a node | Node object |
-| DELETE | `/nodes/{node_id}` | Delete a node | 204 No Content |
+| Method | Endpoint | Description | 
+|--------|----------|-------------|
+| GET | `/nodes` | List all nodes | 
+| POST | `/nodes` | Create a new node | 
+| POST | `/nodes/{node_id}/run` | Start a node | 
+| POST | `/nodes/{node_id}/stop` | Stop a node | 
+| POST | `/nodes/{node_id}/wipe` | Wipe and reset a node | 
+| DELETE | `/nodes/{node_id}` | Delete a node |
 
 ### Node Object Schema
 
