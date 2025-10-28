@@ -188,7 +188,7 @@ curl -X POST http://localhost:8000/nodes/{node_id}/wipe
 curl -X DELETE http://localhost:8000/nodes/{node_id}
 ```
 
-## 📚 API Reference
+## API Reference
 
 ### Endpoints
 
