@@ -217,7 +217,7 @@ curl -X DELETE http://localhost:8000/nodes/{node_id}
 - `stopped`: VM is not running
 - `running`: VM is active and accessible
 
-## ⚙️ Configuration
+## Configuration
 
 ### Backend Configuration
 Edit `backend/core/config.py`:
@@ -274,7 +274,7 @@ Edit `docker-compose.yml` for:
 - Port mappings
 - Volume mounts
 - Resource limits
-- Database credentials (⚠️ Change default passwords!)
+- Database credentials (Change default passwords!)
 
 
 ## 🛠️ Technologies Used
@@ -314,7 +314,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Submit a pull request
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
