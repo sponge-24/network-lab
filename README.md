@@ -277,7 +277,7 @@ Edit `docker-compose.yml` for:
 - Database credentials (Change default passwords!)
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Backend
 - **FastAPI**: Modern, fast web framework for building APIs
