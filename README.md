@@ -120,7 +120,7 @@ docker compose ps
 - Backend API: http://localhost:8000/docs (Swagger UI)
 - Guacamole: http://localhost:3001/guacamole (admin/admin)
 
-## 📖 Usage
+## Usage
 
 ### Web Interface
 
